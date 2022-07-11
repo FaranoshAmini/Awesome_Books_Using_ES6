@@ -27,6 +27,21 @@ You must have a browser and a git version installed on your device, and clone th
 
 Clone the repositry and open the index.html which is in the folder.
 
+### Get Started
+To get a local copy of this exercice, Please follow these simple example steps.
+
+1. Clone this repository or download the Zip folder:
+
+**``git clone git@github.com:FaranoshAmini/Awesome_Books_Using_ES6.git``**
+
+2. Navigate to the location of the folder in your machine:
+
+**``you@your-Pc-name:~$ cd <folder>``**
+
+3. Press Enter to navigate to your local clone.
+
+Now you can go and play with it as you wish :smile:
+
 
 ## Author 1
 
@@ -43,7 +58,7 @@ Give a ⭐️ if you like this project!
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
+Feel free to check the [issues page](../../issues/).
 
 ## Acknowledgments
 
