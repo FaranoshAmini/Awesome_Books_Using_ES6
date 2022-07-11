@@ -73,6 +73,7 @@ h3 {
   padding: 0.5rem;
   display: flex;
   justify-content: space-between;
+  border: 1px solid black;
 }
 
 .add-new {
