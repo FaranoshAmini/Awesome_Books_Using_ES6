@@ -12,7 +12,7 @@ This is a simple website that displays a list of books and allows you to add and
 ## Live Demo 
 
 
-[Live Demo Link]()
+[Live Demo Link](https://faranoshamini.github.io/Awesome_Books_Using_ES6/)
 
 
 ## Getting Started
@@ -28,7 +28,7 @@ You must have a browser and a git version installed on your device, and clone th
 Clone the repositry and open the index.html which is in the folder.
 
 
-## Author 1
+## Author 
 
 👤 **Faranosh Amini**
 - GitHub: [@FaranoshAmini](https://github.com/FaranoshAmini)
