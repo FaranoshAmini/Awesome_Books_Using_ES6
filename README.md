@@ -12,7 +12,7 @@ This is a simple website that displays a list of books and allows you to add and
 ## Live Demo 
 
 
-[Live Demo Link]()
+[Live Demo Link](https://faranoshamini.github.io/Awesome_Books_Using_ES6/)
 
 
 ## Getting Started
@@ -43,7 +43,7 @@ To get a local copy of this exercice, Please follow these simple example steps.
 Now you can go and play with it as you wish :smile:
 
 
-## Author 1
+## Author 
 
 👤 **Faranosh Amini**
 - GitHub: [@FaranoshAmini](https://github.com/FaranoshAmini)
