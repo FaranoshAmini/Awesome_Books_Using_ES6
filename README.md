@@ -1,4 +1,4 @@
-# Awesome_Books_With_ES6
+# Awesome_Books_Using_ES6
 This is a simple website that displays a list of books and allows you to add and remove books from that list.
 
 ## Built With
@@ -11,8 +11,7 @@ This is a simple website that displays a list of books and allows you to add and
 
 ## Live Demo 
 
-
-[Live Demo Link]()
+[Live Demo Link](https://faranoshamini.github.io/Awesome_Books_Using_ES6/)
 
 
 ## Getting Started

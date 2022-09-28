@@ -1,0 +1,23 @@
+{
+  "name": "awesome_books_using_es6",
+  "version": "1.0.0",
+  "description": "This is a simple website that displays a list of books and allows you to add and remove books from that list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaranoshAmini/Awesome_Books_Using_ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaranoshAmini/Awesome_Books_Using_ES6/issues"
+  },
+  "homepage": "https://github.com/FaranoshAmini/Awesome_Books_Using_ES6#readme",
+  "dependencies": {
+    "luxon": "^3.0.4"
+  }
+}
